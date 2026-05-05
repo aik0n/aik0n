@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Aleksandr 👋
 
-<!--
-**aik0n/aik0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend .NET Developer | APIs • Integrations • System Modernization
 
-Here are some ideas to get you started:
+Self-employed software developer working remotely with international clients.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build scalable backend systems using the **.NET ecosystem**, focusing on clean architecture, maintainability, and reliable production systems.
+
+---
+
+## 🚀 What I Do / Services
+
+* Design and develop **APIs and backend services**
+* Build **integration solutions** (including EDI/X12)
+* Modernize / Recovery **legacy .NET applications**
+* Investigate and resolve **performance issues**
+* Implement **monitoring and observability systems**
+* Set up **CI/CD pipelines**
+
+---
+
+## 🛠 Tech Stack
+
+**Backend & Architecture**
+
+* .NET 8/10, ASP.NET Core
+* Microservices, CQRS, Dependency Injection
+
+**Data & Messaging**
+
+* MS SQL, Entity Framework
+* MongoDB, Kafka
+
+**Testing & Quality**
+
+* xUnit, NSubstitute
+
+**DevOps & Observability**
+
+* Docker (containerization)
+* TeamCity, Octopus Deploy
+* Prometheus, Grafana
+* Serilog
+
+---
+
+## 🌍 About
+
+* 📍 Working remotely worldwide
+* 💼 Individual Entrepreneur
+* 🧠 6+ years in modern backend development
+* 🖥 20+ years in IT overall
+
+---
+
+## 📫 Contact
+
+Feel free to reach out for collaboration or project discussions.
