@@ -1,5 +1,7 @@
 # Hi, I'm Aleksandr 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandr-kharlamov/)
+
 ### Backend .NET Developer | APIs • Integrations • System Modernization
 
 Self-employed software developer working remotely with international clients.
