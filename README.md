@@ -8,8 +8,6 @@ Self-employed software developer working remotely with international clients.
 
 I build scalable backend systems using the **.NET ecosystem**, focusing on clean architecture, maintainability, and reliable production systems.
 
----
-
 ## 🚀 What I Do / Services
 
 * Design and develop **APIs and backend services**
@@ -19,42 +17,9 @@ I build scalable backend systems using the **.NET ecosystem**, focusing on clean
 * Implement **monitoring and observability systems**
 * Set up **CI/CD pipelines**
 
----
-
-## 🛠 Tech Stack
-
-**Backend & Architecture**
-
-* .NET 8/10, ASP.NET Core
-* Microservices, CQRS, Dependency Injection
-
-**Data & Messaging**
-
-* MS SQL, Entity Framework
-* MongoDB, Kafka
-
-**Testing & Quality**
-
-* xUnit, NSubstitute
-
-**DevOps & Observability**
-
-* Docker (containerization)
-* TeamCity, Octopus Deploy
-* Prometheus, Grafana
-* Serilog
-
----
-
 ## 🌍 About
 
 * 📍 Working remotely worldwide
 * 💼 Individual Entrepreneur
 * 🧠 6+ years in modern backend development
 * 🖥 20+ years in IT overall
-
----
-
-## 📫 Contact
-
-Feel free to reach out for collaboration or project discussions.
